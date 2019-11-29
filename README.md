@@ -1,6 +1,6 @@
 # XMRig
 
-:warning: **[Monero will change PoW algorithm on November 30](https://github.com/xmrig/xmrig/issues/753)
+:warning: **Monero will change PoW algorithm on November 30**
 
 [![Github All Releases](https://img.shields.io/github/downloads/xmrig/xmrig/total.svg)](https://github.com/xmrig/xmrig/releases)
 [![GitHub release](https://img.shields.io/github/release/xmrig/xmrig/all.svg)](https://github.com/xmrig/xmrig/releases)
